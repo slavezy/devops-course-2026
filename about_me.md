@@ -3,6 +3,6 @@
 - ФИО: Асаков Вячеслав
 - Группа: ЭФБО-08-24
 - Технологии, которые хочу освоить в этом курсе:
- 1. Docker
- 2. CI/CD (GitHub Actions)
- 3. Linux (Bash)
+  1. Docker
+  2. CI/CD (GitHub Actions)
+  3. Linux (Bash)
