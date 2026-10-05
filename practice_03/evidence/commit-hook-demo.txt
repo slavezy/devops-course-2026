@@ -1,0 +1,6 @@
+bad commit exit=1
+warning: unable to access 'C:\Users\1/.config/git/ignore': Permission denied
+Commit message must use: type: description
+good commit exit=0
+warning: unable to access 'C:\Users\1/.config/git/ignore': Permission denied
+[practice/dev3-complete 4d422a2] test: verify commit message hook

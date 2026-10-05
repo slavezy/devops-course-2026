@@ -1,0 +1,16 @@
+696ac07 HEAD@{2026-10-05 10:52:14 +0300}: checkout: moving from tmp/recovery-demo to practice/dev3-complete
+06df557 HEAD@{2026-10-05 10:52:14 +0300}: commit: docs: save important recovery data
+696ac07 HEAD@{2026-10-05 10:52:13 +0300}: checkout: moving from practice/dev3-complete to tmp/recovery-demo
+696ac07 HEAD@{2026-10-05 10:52:13 +0300}: cherry-pick: fix: apply urgent calculator patch
+ccaed1b HEAD@{2026-10-05 10:52:13 +0300}: checkout: moving from hotfix/urgent-fix to practice/dev3-complete
+061c324 HEAD@{2026-10-05 10:52:13 +0300}: commit: feat: add multiply and divide
+696ac07 HEAD@{2026-10-05 10:52:13 +0300}: commit: fix: apply urgent calculator patch
+ccaed1b HEAD@{2026-10-05 10:52:13 +0300}: checkout: moving from practice/dev3-complete to hotfix/urgent-fix
+ccaed1b HEAD@{2026-10-05 10:52:12 +0300}: merge feature/calculator: Fast-forward
+2f1f2cb HEAD@{2026-10-05 10:52:12 +0300}: checkout: moving from feature/calculator to practice/dev3-complete
+ccaed1b HEAD@{2026-10-05 10:48:40 +0300}: rebase (finish): returning to refs/heads/feature/calculator
+ccaed1b HEAD@{2026-10-05 10:48:40 +0300}: rebase (reword): docs: add calculator README
+a19bd3b HEAD@{2026-10-05 10:48:40 +0300}: rebase (reword): add docs
+f52bb01 HEAD@{2026-10-05 10:48:40 +0300}: rebase (fixup): feat: implement subtract function
+c4dc3f8 HEAD@{2026-10-05 10:48:40 +0300}: rebase (reword): feat: implement subtract function
+recovered commit=06df557467db834533921a71f1b384f76029f1c5; recovered file existed=False

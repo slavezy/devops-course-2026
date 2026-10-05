@@ -1,0 +1,5 @@
+clean history after homework rebase:
+c3f2c6f docs: edit preparation title in branch B
+1454354 docs: prepare for Git control work
+7070c53 docs: record practice 2 review and merge
+9e4db45 feat: add hobby project description

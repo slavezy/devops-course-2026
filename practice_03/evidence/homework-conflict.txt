@@ -1,0 +1,22 @@
+warning: unable to access 'C:\Users\1/.config/git/ignore': Permission denied
+warning: unable to access 'C:\Users\1/.config/git/ignore': Permission denied
+warning: unable to access 'C:\Users\1/.config/git/ignore': Permission denied
+Auto-merging kr_prep.md
+CONFLICT (content): Merge conflict in kr_prep.md
+Automatic merge failed; fix conflicts and then commit the result.
+diff --cc kr_prep.md
+index a852cbd,ed93822..0000000
+--- a/kr_prep.md
++++ b/kr_prep.md
+@@@ -1,4 -1,4 +1,8 @@@
+++<<<<<<< HEAD
+ +# Подготовка к контрольной работе №4 — ветка B
+++=======
++ # Подготовка к контрольной работе №4 — ветка A
+++>>>>>>> conflict/prep-two
+  
+  ## Когда выбирать rebase, а когда merge? Почему?
+  Rebase выбираю для локальной feature-ветки перед публикацией, чтобы перенести коммиты на актуальную базу и получить линейную историю. Merge выбираю для интеграции опубликованных веток, когда важно сохранить факт и структуру параллельной работы.
+resolved file title:
+# Подготовка к контрольной работе №4 — объединённый вариант
+

@@ -1,0 +1,3 @@
+d02c3f1 Revert "test: add intentionally broken calculator setting"
+5478d5d test: add intentionally broken calculator setting
+reverted commit=5478d5d190165e43f5dd314c5bbdc4f3aea81a44

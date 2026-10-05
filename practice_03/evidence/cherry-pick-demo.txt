@@ -1,0 +1,2 @@
+696ac07 fix: apply urgent calculator patch
+cherry-pick source=696ac079ea5ace626022089a50b1f5912f183a25
