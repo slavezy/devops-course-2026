@@ -13,7 +13,7 @@
 
 ## Практическая работа №2
 
-- [Описание пет-проекта](hobby.md) - ветка `feature/hobby-project`; [Pull Request](https://github.com/slavezy/devops-course-2026/pull/1).
+- [Описание пет-проекта](hobby.md) - [Pull Request №1](https://github.com/slavezy/devops-course-2026/pull/1), смержен через Squash and merge.
 - [Заметки по VS Code и терминалу](ide_notes.md).
 - [Сравнение Git и SVN](svn_comparison.md).
 - [Ответы на контрольные вопросы](practice_02/theory.md).
