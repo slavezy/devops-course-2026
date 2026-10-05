@@ -11,6 +11,15 @@
 - [Ответы на контрольные вопросы и подготовка к следующему занятию](practice_01/theory.md)
 - [Результаты настройки Git, SSH и памятка по VS Code](practice_01/report.md)
 
+## Практическая работа №2
+
+- [Описание пет-проекта](hobby.md) - ветка `feature/hobby-project`; [Pull Request](https://github.com/slavezy/devops-course-2026/pull/1).
+- [Заметки по VS Code и терминалу](ide_notes.md).
+- [Сравнение Git и SVN](svn_comparison.md).
+- [Ответы на контрольные вопросы](practice_02/theory.md).
+- [Отчёт о выполнении и оставшихся шагах](practice_02/report.md).
+- [Упражнение по interactive rebase](practice_02/rebase_exercise.md); ветка `practice/rebase-playground` хранится только локально.
+
 ## Открытие проекта
 
 ```bash
